@@ -18,6 +18,10 @@ Uncaught TypeError: element.nodeName.toLowerCase is not a function
 
 2. when: 
   
-  *  use 'nodeName' as Form.getFieldDecorator field
+  * use 'nodeName' as Form.getFieldDecorator field
   * add a Select component
   * change the Select value
+
+
+### Know issues
+1. https://github.com/facebook/react/issues/6284
