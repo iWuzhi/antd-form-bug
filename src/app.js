@@ -30,7 +30,7 @@ const FormTest =  ({ form }) => {
           )
         }
       </FormItem>
-      <FormItem label='nodeName'>
+      <FormItem label='nodeName2'>
         {
           getFieldDecorator('nodeName2', {})(
             <Input />
